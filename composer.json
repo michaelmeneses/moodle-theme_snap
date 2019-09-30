@@ -1,0 +1,10 @@
+{
+    "name": "blackboard-open-source/moodle-theme_snap",
+    "type": "moodle-theme",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "snap"
+    }
+}
